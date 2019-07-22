@@ -1,0 +1,15 @@
+.wrapper_home{
+    background: #F6F6F6;
+    overflow: hidden;
+    padding:0.3rem 0 0 0;
+    .content_home{
+        width:17rem;
+        margin:0 auto;
+        background: #fff;
+        box-shadow: 0 1px 3px rgba(26,26,26,.1);
+        .content{
+            padding:0.3rem;
+            border-bottom: 1px solid #80797926;
+        }
+    }
+}

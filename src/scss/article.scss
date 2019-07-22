@@ -1,0 +1,15 @@
+.article_layout{
+    cursor: pointer;
+    font-size: 0.3rem;
+    .article_title{
+        font-size:0.4rem;
+        font-weight:600;
+        color:#1A1A1A;
+        &:hover{
+            color:#175199;
+        }
+    }
+    p{
+        margin-top: 0.2rem;
+    }
+}
